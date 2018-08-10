@@ -1,21 +1,19 @@
-# bearbot
+# bearbot-web
+
+The new Bearbot website, soon to be live [here.](https://bearbot.plusreed.com)
 
 ## Project setup
-```
-yarn install
-```
+
+`yarn install`
 
 ### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+
+`yarn run serve`
 
 ### Compiles and minifies for production
-```
-yarn run build
-```
+
+`yarn run build`
 
 ### Lints and fixes files
-```
-yarn run lint
-```
+
+`yarn run lint`
