@@ -1,6 +1,6 @@
 # bearbot-web
 
-The new Bearbot website, soon to be live [here.](https://bearbot.plusreed.com)
+The new Bearbot website, which is live [here.](https://bearbot.plusreed.com)
 
 ## Project setup
 
